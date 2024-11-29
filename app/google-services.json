@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "432251102599",
+    "project_id": "registro-asistencia-fb99c",
+    "storage_bucket": "registro-asistencia-fb99c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432251102599:android:5b2b279cbe118314111f22",
+        "android_client_info": {
+          "package_name": "com.lizzetteflores.registro_asistencia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIiNT65CynFA4Gt7tmC9PBLDbuKu4xofc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432251102599:android:aadf705d48b06726111f22",
+        "android_client_info": {
+          "package_name": "com.lizzetteflores.registroasistencia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIiNT65CynFA4Gt7tmC9PBLDbuKu4xofc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
